@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theholypumpkin
 - 👀 I’m interested in embedded systems, arduinos, and gerneral more low level close to the hardware develpment. I also like writing assembly and VHDL but I'm not very good at it at the moment.
-- 🌱 I mostly write c++ and python. 
+- 🌱 I mostly write c, 'arduio' and python. 
 
 
 <!---
